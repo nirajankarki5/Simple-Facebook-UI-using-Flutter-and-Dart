@@ -1,6 +1,6 @@
 # fbcard
 
-A new Flutter project.
+A simple Facebook UI using Flutter and Dart
 
 ## Getting Started
 
