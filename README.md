@@ -3,6 +3,8 @@
 A simple Facebook UI using Flutter and Dart
 The results can be seen on the Screenshot Folder.
 
+![](Screenshot/facebookUI.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
