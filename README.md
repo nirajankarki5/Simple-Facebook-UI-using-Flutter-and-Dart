@@ -1,4 +1,4 @@
-# facebook
+# Facebook UI
 
 A simple Facebook UI using Flutter and Dart
 The results can be seen on the Screenshot Folder.
